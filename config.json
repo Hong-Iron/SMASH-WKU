@@ -20,5 +20,60 @@
   "kakaoKey": "ff20552a5a51bc1fe0e0ecdecd217f35",
   "goatcounter": "https://sassafras.goatcounter.com/count",
   "supabaseUrl": "https://qohxhopinnwrzrgxrdvj.supabase.co",
-  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g"
+  "supabaseKey": "sb_publishable_9RcuLHwCWIpdzjqDvXMtIA_kicFhQ8g",
+  "look": {
+    "창의공과대학": {
+      "style": "concrete",
+      "wall": "#e6e7e4",
+      "glass": "#4a5a62",
+      "frame": "#9a9fa2"
+    },
+    "문화 체육관": {
+      "style": "stone",
+      "wall": "#e8dbbf",
+      "glass": "#48525a",
+      "frame": "#8a4a32",
+      "hip": true,
+      "roof": "#2f78c0"
+    },
+    "학생회관": {
+      "style": "brick",
+      "wall": "#5e5f61",
+      "glass": "#3e4a52",
+      "frame": "#d6d6d2"
+    },
+    "의과대학": {
+      "style": "stone",
+      "wall": "#d4d6d6",
+      "glass": "#3c4a55",
+      "frame": "#6a6d70"
+    },
+    "프라임관": {
+      "style": "tan",
+      "wall": "#c9b07c",
+      "glass": "#4d6a8e",
+      "frame": "#b9bfc8"
+    },
+    "60주년기념관": {
+      "style": "brick",
+      "wall": "#b6774e",
+      "glass": "#3f5d60",
+      "frame": "#9da1a3"
+    },
+    "학생생활관 개벽관": {
+      "style": "brick",
+      "wall": "#93463a",
+      "glass": "#3d4a50",
+      "frame": "#e4e0d4",
+      "hip": true,
+      "roof": "#8e3e30"
+    },
+    "학생지원관": {
+      "style": "stone",
+      "wall": "#dcdcd8",
+      "glass": "#3a4752",
+      "frame": "#c3c4c0"
+    }
+  },
+  "lookSource": "학교 공식 캠퍼스맵·건물 안내 사진과 위키미디어 공용 사진의 색만 참고. 사진 픽셀은 쓰지 않음"
 }
